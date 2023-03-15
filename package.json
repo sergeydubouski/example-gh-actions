@@ -1,0 +1,24 @@
+{
+  "name": "example-gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeydubouski/example-gh-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeydubouski/example-gh-actions/issues"
+  },
+  "homepage": "https://github.com/sergeydubouski/example-gh-actions#readme",
+  "devDependencies": {
+    "cypress": "^12.8.0",
+    "prettier": "^2.8.4"
+  }
+}
